@@ -1,0 +1,7 @@
+print("Prueba desde el primer archivo")
+print("Prueba desde el primer archivo")
+print("Prueba desde el primer archivo")
+print("Prueba desde el primer archivo")
+print("Prueba desde el primer archivo")
+print("Prueba desde el primer archivo")
+print("Prueba desde el primer archivo")
